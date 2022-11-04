@@ -1,4 +1,4 @@
-# py_asogment4
+# py_asigment4
 Python: Install the current version of Python: PyCharm
 Postgres: Pg Admin 4
 Terminal in PyCharm:
