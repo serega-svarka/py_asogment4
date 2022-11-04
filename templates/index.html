@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block body %}
+ <div class="row col-md justify-content-center"><h3>NFT</h3></div>
+  <div class="row">
+    <div class="col-md">
+      <div class="card card-body">
+        <form action="#" method="POST">
+          <div class="form-group">
+            <input type="text" class="form-control" name="gname" placeholder="NFT name" required>
+          </div>
+          <div class="form-group">
+            <select class="form-control" name="specs" required>
+              <option value="recommended">Nft</option>
+            </select>
+          </div>
+          <button class="btn btn-primary btn-block">
+            Search
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
