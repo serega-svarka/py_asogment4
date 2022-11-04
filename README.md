@@ -21,3 +21,6 @@ Run main.py. Click localhost in termina. Log in. Register for the first time. Af
 
 Team of the project:
 Tkach Kirill / Baitanatov Arystan
+
+![image](https://user-images.githubusercontent.com/98324378/199970603-ef82c0f2-079f-4aa2-b348-937f818a68fa.png)
+![image](https://user-images.githubusercontent.com/98324378/199970620-d3107279-7bf8-429c-906b-5a6edf2e55ec.png)
